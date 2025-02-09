@@ -1,61 +1,55 @@
-Revisit - A Story-Driven 2D Game
+# Revisit - A Story-Driven 2D Game
 
+## 📖 About the Game
 
+**Revisit** is an emotional, narrative-driven 2D side-scrolling adventure that takes players on a reflective journey through the protagonist's life after death. The game explores themes of **struggle, fear, self-realization, and acceptance**, delivering a deeply immersive and heartfelt experience.
 
-📖 About the Game
+## 🌟 Features
 
-Revisit is a narrative-driven game that takes players on a journey through the life of a person who reflects on their past after death. The game explores themes of struggle, fear, self-realization, and acceptance through an emotional and immersive experience.
+- **Genre:** Story-driven, emotional narrative
+- **Gameplay:** 2D side-scrolling adventure with interactive storytelling
+- **Engine:** Unity
+- **Programming Language:** C#
+- **Graphics:** Designed using Photopea
 
-🌟 Features
+## 🎮 Gameplay Overview
 
-Genre: Story-based, emotional narrative
+### 🧒 Stage 1 (Age 5) - Innocence & Escape
+The protagonist, as a child, witnesses a heated argument between their parents. To escape the overwhelming situation, they hide, leading to an unexpected and heartwarming discovery.
 
-Gameplay: 2D side-scrolling adventure with interactive scenes
+### 🏫 Stage 2 (Age 13) - Rebellion & Struggle
+During a classroom scene, the protagonist is scolded by their teacher. Overcome with frustration, they flee the school, navigating various obstacles along the way.
 
-Engine: Unity
+### 🤯 Stage 2.5 (Age 13 - Scene 2) - Self-Reflection & Anxiety
+On their way home, the protagonist grapples with deep self-reflection and the uncertainties of life, leading to a pivotal moment of introspection.
 
-Programming Language: C#
+### 🎵 Stage 3 (Age 23) - Music & Connection
+A unique musical gameplay sequence unfolds, culminating in a serene moment where the protagonist meets someone who brings joy and meaning into their life.
 
-Graphics: Designed using Photopea
+### 🎂 Stage 4 (Age 35) - Celebration & Family
+The gameplay begins with a **cake-decorating minigame**. Afterward, the protagonist celebrates their child’s **5th birthday** alongside their spouse, cherishing the joys of family life.
 
-🎮 Gameplay Overview
+### 🏃 Stage 5 (Age 46 - Final Stage) - Tension & Fate
+Returning home from a shop, the protagonist is **chased by two robbers**. The player must navigate the tense escape, leading to the game's climactic and thought-provoking conclusion.
 
-🧒 Stage 1 (Age 5)
+## screenshots
+![scene 1](screenshot1.png)
+![scene 1](screenshot2.png)
 
-The protagonist is at home, witnessing an argument between their parents. To escape the tense environment, they hide and eventually discover a surprise at the end.
+## trailer
+[Watch the Trailer](trailer.mp4)
 
-🏫 Stage 2 (Age 13)
+## 🤝 Contributing
 
-In class, the protagonist is being scolded by a teacher. Overwhelmed, he runs out of the school, facing various obstacles along the way.
+We welcome contributions to make **Revisit** even better! You can:
 
-🤯 Stage 2.5 (Age 13 - Scene 2)
+1. **Fork** the repository
+2. **Submit** a pull request
+3. **Report** issues or suggest new features in the Issues tab
 
-On his way home, the protagonist engages in deep self-reflection, worrying about life’s uncertainties before finally reaching home.
+## 📜 License
 
-🎵 Stage 3 (Age 23)
+This project is licensed under the **MIT License**.
 
-A musical gameplay segment unfolds. After completing it, the protagonist sits on a bench, where they meet a significant person who brings happiness into their life.
+🔹 Developed with ❤️ using **Unity & C#**
 
-🎂 Stage 4 (Age 35)
-
-The gameplay begins with a cake decorating minigame. After completion, the scene transitions to the protagonist celebrating their child’s 5th birthday with their spouse.
-
-🏃 Stage 5 (Age 46 - Final Stage)
-
-Returning from a shop, the protagonist is suddenly chased by two robbers. The player must navigate the tense situation to uncover the game's climactic conclusion.
-
-🤝 Contributing
-
-We welcome contributions! If you’d like to improve the game, feel free to:
-
-Fork the repository
-
-Submit a pull request
-
-Report issues or suggest new features in the Issues tab
-
-📜 License
-
-This project is licensed under the MIT License.
-
-🔹 Developed with ❤️ using Unity & C#
